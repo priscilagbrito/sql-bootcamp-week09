@@ -74,6 +74,9 @@
 - **Actualizable:** NO.
 - **Uso:** dashboard ejecutivo, presentaciones a inversionistas.
 
+## Dependencias
+
+v_vip_customers → v_customers_stats → customers + sales v_products_metrics → products + categories + sales v_full_sales → sales + customers + products
 
 ## Cambios futuros
 
