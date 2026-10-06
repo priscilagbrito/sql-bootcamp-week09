@@ -74,4 +74,9 @@
 - **Actualizable:** NO.
 - **Uso:** dashboard ejecutivo, presentaciones a inversionistas.
 
-## Dependencias
+
+## Cambios futuros
+
+- Si se cambia el umbral de "VIP", modificar `v_vip_customers` solamente.
+- Si se cambia el cálculo de revenue, modificar `v_full_sales` solamente.
+- Si aparece nueva información sensible, agregar a la lista oculta de `v_public_catalog`.
